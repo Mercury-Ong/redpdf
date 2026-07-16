@@ -1,0 +1,45 @@
+RedPDF Commercial License Agreement
+====================================
+
+Copyright (c) 2026 Mercuryong. All rights reserved.
+
+NOTE: This is a template EULA for a commercial software library. Have it
+reviewed by a lawyer before selling licenses.
+
+1. GRANT. Subject to payment of the applicable license fee, Mercuryong grants
+   you a non-exclusive, non-transferable license to install and use the RedPDF
+   library ("the Software") and to distribute it embedded within your own
+   applications, in accordance with the edition and features stated in your
+   license key.
+
+2. COMMUNITY EDITION. Without a purchased license key, the Software runs in
+   the free Community edition. The Community edition may be used in commercial
+   applications, limited to the features it exposes.
+
+3. RESTRICTIONS. You may not (a) redistribute the Software as a standalone
+   product or development component, (b) remove or circumvent license
+   enforcement, (c) disclose license keys publicly, or (d) use the Software to
+   build a competing PDF library.
+
+4. OWNERSHIP. The Software is licensed, not sold. Mercuryong retains all
+   right, title and interest in the Software.
+
+5. THIRD-PARTY COMPONENTS. The Software incorporates open-source components
+   listed in THIRD-PARTY-NOTICES.md, which are licensed under their own terms.
+
+6. WARRANTY DISCLAIMER. THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF
+   ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY. IN NO EVENT SHALL MERCURYONG BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE,
+   BEYOND THE AMOUNT PAID FOR THE LICENSE.
+
+8. TERMINATION. This license terminates automatically if you breach any of
+   its terms, or upon refund of the license fee. Upon termination you must
+   stop using the license key and cease distribution of applications
+   embedding licensed features.
+
+9. REFUNDS. Refunds are governed by the published Refund Policy
+   (REFUND-POLICY.md) and, where applicable, the terms of the payment
+   provider that processed the order.

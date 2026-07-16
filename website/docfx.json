@@ -1,0 +1,29 @@
+{
+  "metadata": [
+    {
+      "src": [
+        {
+          "files": ["apiref/bin/publish/RedPdf.dll"]
+        }
+      ],
+      "dest": "api"
+    }
+  ],
+  "build": {
+    "content": [
+      {
+        "files": ["**/*.{md,yml}"],
+        "exclude": ["_site/**", "obj/**", "apiref/**"]
+      }
+    ],
+    "output": "_site",
+    "template": ["default", "modern"],
+    "globalMetadata": {
+      "_appName": "RedPdf",
+      "_appTitle": "RedPdf — HTML to PDF for .NET",
+      "_appFooter": "© 2026 Mercuryong. RedPdf is a commercial library with a free Community tier.",
+      "_enableSearch": true,
+      "pdf": false
+    }
+  }
+}

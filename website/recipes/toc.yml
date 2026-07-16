@@ -1,0 +1,44 @@
+- name: Overview
+  href: index.md
+- name: Rendering
+  items:
+    - name: HTML to PDF with headers & footers
+      href: html-to-pdf.md
+    - name: Authenticated pages & SPAs
+      href: authed-pages.md
+    - name: Markdown to PDF
+      href: markdown-to-pdf.md
+    - name: HTML to image
+      href: html-to-image.md
+    - name: Production hardening
+      href: production-hardening.md
+- name: Deployment
+  items:
+    - name: Docker
+      href: docker.md
+    - name: Azure Functions
+      href: azure-functions.md
+- name: Manipulation
+  items:
+    - name: Merge & split
+      href: merge-split.md
+    - name: Stamps, watermarks & page numbers
+      href: stamp-watermark.md
+    - name: Fill & flatten forms
+      href: forms.md
+    - name: Create form fields
+      href: create-form-fields.md
+    - name: Extract text & images
+      href: extract-text-images.md
+    - name: PDF to PNG
+      href: rasterize.md
+    - name: Password protection
+      href: password-protection.md
+    - name: Bookmarks & attachments
+      href: bookmarks-attachments.md
+- name: Compliance (licensed)
+  items:
+    - name: Digital signatures & timestamps
+      href: sign-and-timestamp.md
+    - name: PDF/A conversion
+      href: pdfa.md

@@ -1,0 +1,15 @@
+<!-- Stub project: restores the published RedPdf package so DocFX can generate the API
+     reference from its assembly + XML docs. Publish before running docfx:
+       dotnet publish website/apiref -c Release -o website/apiref/bin/publish -->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <CopyDocumentationFilesFromPackages>true</CopyDocumentationFilesFromPackages>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RedPdf" Version="1.0.0-preview.2" />
+  </ItemGroup>
+
+</Project>

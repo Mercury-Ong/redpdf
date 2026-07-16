@@ -1,0 +1,7 @@
+bin/
+obj/
+out/
+website/_site/
+website/api/
+website/apiref/bin/
+.DS_Store
